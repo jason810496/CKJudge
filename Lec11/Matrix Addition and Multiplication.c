@@ -83,14 +83,3 @@ void mul_mat(const struct mat *m1_p, const struct mat *m2_p, struct mat *result_
     }
 }
 
-/*
-2x3 3x4
-
-1 2 3
-3 4 5
-
-3 4 5 6
-4 5 6 7
-5 6 7 8
-
-*/
